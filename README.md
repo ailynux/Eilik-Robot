@@ -1,6 +1,6 @@
 # Eilik-Robot
 
---> working on using python 
+--> working on using python -- local repo
 
 ## Overview
 
