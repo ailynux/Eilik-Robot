@@ -1,4 +1,5 @@
 # Eilik-Robot
+-- finished up 
 
 --> working on using python -- local repo ---> uploading
 
