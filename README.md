@@ -1,6 +1,6 @@
 # Eilik-Robot
 -- finished up 
-
+upload tomorrow after noon release 
 --> working on using python -- local repo ---> uploading
 
 ## Overview
