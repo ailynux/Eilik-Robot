@@ -1,0 +1,29 @@
+name: Question
+description: Ask a question (will be redirected to Discussions)
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Please note:** Questions are better suited for [GitHub Discussions](https://github.com/ailynux/eilik-robot/discussions).
+        
+        If you have a specific bug or feature request, please use those templates instead.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: What would you like to know?
+      placeholder: Ask your question here...
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Any relevant context about your question
+      placeholder: Add any relevant context...
+    validations:
+      required: false
